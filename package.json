@@ -1,0 +1,27 @@
+{
+  "name": "nodefinal",
+  "version": "1.0.0",
+  "description": "Final exercice of Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TheophileSimoes/NodeFinal.git"
+  },
+  "keywords": [
+    "Ouais"
+  ],
+  "author": "moi même",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheophileSimoes/NodeFinal/issues"
+  },
+  "homepage": "https://github.com/TheophileSimoes/NodeFinal#readme",
+  "type": "module",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "dotenv": "^16.4.5"
+  }
+  }
